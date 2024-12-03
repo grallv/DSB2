@@ -1,7 +1,13 @@
 
 *.json
-*.pkl
 *.xml
-*.csv
-*.xlsx
-*.xlsx
+/Data/mergerdata.pkl
+/Data/DSB2.csv
+/Data/DSB2.xlsx
+/Data/embeddings.csv
+/Data/final_data.csv
+/Data/industries.csv
+/Data/main_data.csv
+/Data/prepro_mergerdata.csv
+/Data/tfidf.csv
+/Data/topics.csv
